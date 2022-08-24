@@ -9,7 +9,7 @@
 /packages/cli/src/commands/env           @styfle @lucleray
 /packages/client                         @TooTallNate @EndangeredMassa @styfle
 /packages/build-utils                    @TooTallNate @EndangeredMassa @styfle @AndyBitz
-/packages/middleware                     @gdborton @javivelasco
+/packages/edge                           @vercel/edge-function
 /packages/node                           @TooTallNate @EndangeredMassa @styfle
 /packages/node-bridge                    @TooTallNate @EndangeredMassa @styfle @ijjk
 /packages/next                           @TooTallNate @ijjk
